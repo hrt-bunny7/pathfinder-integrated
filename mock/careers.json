@@ -1,0 +1,5 @@
+[
+  {"role": "Full Stack Developer", "fit": 82, "reason": "Your React, JavaScript and SQL skills cover most of the core stack."},
+  {"role": "Backend Developer", "fit": 74, "reason": "Python and SQL are strong; learning an API framework would close the gap."},
+  {"role": "Data Analyst", "fit": 68, "reason": "SQL and Python give you a base; add visualisation tools to stand out."}
+]

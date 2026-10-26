@@ -1,0 +1,16 @@
+{
+  "user_id": "mock",
+  "skills": [
+    {"name": "Python", "level": "intermediate", "category": "language"},
+    {"name": "JavaScript", "level": "intermediate", "category": "language"},
+    {"name": "React", "level": "beginner", "category": "framework"},
+    {"name": "SQL", "level": "intermediate", "category": "database"},
+    {"name": "Git", "level": "intermediate", "category": "tool"},
+    {"name": "HTML", "level": "advanced", "category": "language"},
+    {"name": "CSS", "level": "intermediate", "category": "language"}
+  ],
+  "experience_years": 1,
+  "education": "B.Tech CSE",
+  "domains": ["web", "data"],
+  "summary": "Final-year CS student with hands-on web projects in React and Python, and solid SQL basics."
+}
