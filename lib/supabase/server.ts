@@ -9,7 +9,11 @@ export function createClient() {
     {
       cookies: {
         getAll: () => cookieStore.getAll(),
-        setAll: (list) => {
+        setAll: (cookiesToSet: {
+  name: string;
+  value: string;
+  options?: import("@supabase/ssr").CookieOptions;
+}[]) => {
           try {
             list.forEach(({ name, value, options }) => cookieStore.set(name, value, options));
           } catch {
