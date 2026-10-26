@@ -1,0 +1,76 @@
+{
+  "_note": "Resources for skills used by the website that are not in Member 4's dataset. Official docs/tutorial pages written from memory; network was unavailable when this file was made, so open each link once before the final demo.",
+  "Go": {"level": "Beginner", "resources": [
+    {"name": "A Tour of Go", "type": "Interactive Tutorial", "url": "https://go.dev/tour/"},
+    {"name": "Go by Example", "type": "Documentation", "url": "https://gobyexample.com/"}],
+    "practice": "Write small programs using structs, slices, maps and goroutines.", "project": "Build a command-line tool or a small REST API in Go."},
+  "Rust": {"level": "Intermediate", "resources": [
+    {"name": "The Rust Programming Language (book)", "type": "Documentation", "url": "https://doc.rust-lang.org/book/"},
+    {"name": "Rust by Example", "type": "Documentation", "url": "https://doc.rust-lang.org/rust-by-example/"}],
+    "practice": "Solve exercises on ownership, borrowing and error handling.", "project": "Build a small command-line utility in Rust."},
+  "Sass": {"level": "Beginner", "resources": [
+    {"name": "Sass Guide", "type": "Documentation", "url": "https://sass-lang.com/guide/"}],
+    "practice": "Convert a plain CSS file to Sass using variables, nesting and mixins.", "project": "Restyle one of your pages with a Sass design system."},
+  "Next.js": {"level": "Intermediate", "resources": [
+    {"name": "Learn Next.js", "type": "Course", "url": "https://nextjs.org/learn"},
+    {"name": "Next.js Documentation", "type": "Documentation", "url": "https://nextjs.org/docs"}],
+    "practice": "Build pages with routing, data fetching and server components.", "project": "Build and deploy a small full-stack app with Next.js."},
+  "Vue": {"level": "Beginner", "resources": [
+    {"name": "Vue.js Interactive Tutorial", "type": "Interactive Tutorial", "url": "https://vuejs.org/tutorial/"},
+    {"name": "Vue.js Guide", "type": "Documentation", "url": "https://vuejs.org/guide/introduction.html"}],
+    "practice": "Build components with props, events and reactive state.", "project": "Build a to-do or notes app in Vue."},
+  "Express": {"level": "Beginner", "resources": [
+    {"name": "Express Getting Started", "type": "Documentation", "url": "https://expressjs.com/en/starter/hello-world.html"},
+    {"name": "Express Routing Guide", "type": "Documentation", "url": "https://expressjs.com/en/guide/routing.html"}],
+    "practice": "Create routes, middleware and error handling.", "project": "Build a REST API with Express and a database."},
+  "Django": {"level": "Intermediate", "resources": [
+    {"name": "Django Tutorial", "type": "Documentation", "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"},
+    {"name": "Django Girls Tutorial", "type": "Tutorial", "url": "https://tutorial.djangogirls.org/"}],
+    "practice": "Build models, views, templates and use the admin site.", "project": "Build a blog or task manager with Django and user login."},
+  "Flask": {"level": "Beginner", "resources": [
+    {"name": "Flask Quickstart", "type": "Documentation", "url": "https://flask.palletsprojects.com/en/stable/quickstart/"},
+    {"name": "Flask Tutorial", "type": "Documentation", "url": "https://flask.palletsprojects.com/en/stable/tutorial/"}],
+    "practice": "Create routes, templates and form handling.", "project": "Build a small web app with Flask and SQLite."},
+  "FastAPI": {"level": "Beginner", "resources": [
+    {"name": "FastAPI Tutorial", "type": "Documentation", "url": "https://fastapi.tiangolo.com/tutorial/"}],
+    "practice": "Create endpoints with request bodies, validation and dependencies.", "project": "Build a CRUD API with FastAPI and a database."},
+  "Spring Boot": {"level": "Intermediate", "resources": [
+    {"name": "Spring Boot Getting Started Guide", "type": "Documentation", "url": "https://spring.io/guides/gs/spring-boot"},
+    {"name": "Spring Quickstart", "type": "Documentation", "url": "https://spring.io/quickstart"}],
+    "practice": "Build controllers, services and repositories.", "project": "Build a REST API with Spring Boot and a SQL database."},
+  ".NET": {"level": "Intermediate", "resources": [
+    {"name": ".NET Tutorials (Microsoft Learn)", "type": "Documentation", "url": "https://learn.microsoft.com/en-us/dotnet/core/tutorials/"},
+    {"name": "Learn .NET", "type": "Course", "url": "https://dotnet.microsoft.com/en-us/learn"}],
+    "practice": "Write C# console apps, then a minimal web API.", "project": "Build an ASP.NET Core web API."},
+  "Tailwind CSS": {"level": "Beginner", "resources": [
+    {"name": "Tailwind CSS Documentation", "type": "Documentation", "url": "https://tailwindcss.com/docs/installation"},
+    {"name": "Utility-First Fundamentals", "type": "Documentation", "url": "https://tailwindcss.com/docs/utility-first"}],
+    "practice": "Rebuild a landing page using only utility classes.", "project": "Build a responsive portfolio site with Tailwind CSS."},
+  "Bootstrap": {"level": "Beginner", "resources": [
+    {"name": "Bootstrap Getting Started", "type": "Documentation", "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"}],
+    "practice": "Use the grid, navbar, cards and forms.", "project": "Build a responsive multi-page site with Bootstrap."},
+  "GraphQL": {"level": "Intermediate", "resources": [
+    {"name": "Introduction to GraphQL", "type": "Documentation", "url": "https://graphql.org/learn/"}],
+    "practice": "Write queries, mutations and a small schema.", "project": "Build a GraphQL API for a simple data model."},
+  "Supabase": {"level": "Beginner", "resources": [
+    {"name": "Supabase Documentation", "type": "Documentation", "url": "https://supabase.com/docs"}],
+    "practice": "Create tables, row-level security policies and sign-in.", "project": "Build an app with Supabase auth and a database."},
+  "GCP": {"level": "Beginner", "resources": [
+    {"name": "Google Cloud Getting Started", "type": "Documentation", "url": "https://cloud.google.com/docs/get-started"},
+    {"name": "Google Cloud Skills Boost", "type": "Course", "url": "https://www.cloudskillsboost.google/"}],
+    "practice": "Deploy a VM and a storage bucket in the free tier.", "project": "Deploy a small web app on Google Cloud."},
+  "React Native": {"level": "Intermediate", "resources": [
+    {"name": "React Native Getting Started", "type": "Documentation", "url": "https://reactnative.dev/docs/getting-started"}],
+    "practice": "Build screens with core components and navigation.", "project": "Build a simple mobile app with React Native."},
+  "Digital Marketing": {"level": "Beginner", "resources": [
+    {"name": "Google Skillshop", "type": "Course", "url": "https://skillshop.withgoogle.com/"},
+    {"name": "HubSpot Academy", "type": "Course", "url": "https://academy.hubspot.com/"}],
+    "practice": "Run a small SEO audit of a website.", "project": "Plan a one-month content and SEO campaign for a sample brand."},
+  "NLP": {"level": "Intermediate", "resources": [
+    {"name": "Hugging Face NLP Course", "type": "Course", "url": "https://huggingface.co/learn/nlp-course"}],
+    "practice": "Tokenize text and fine-tune a small classifier.", "project": "Build a sentiment or text-classification app."},
+  "OOP": {"level": "Beginner", "resources": [
+    {"name": "Java Tutorials: Object-Oriented Concepts", "type": "Documentation", "url": "https://docs.oracle.com/javase/tutorial/java/concepts/"},
+    {"name": "Python Tutorial: Classes", "type": "Documentation", "url": "https://docs.python.org/3/tutorial/classes.html"}],
+    "practice": "Model a real system with classes, inheritance and interfaces.", "project": "Build a library or bank management app using OOP principles."}
+}

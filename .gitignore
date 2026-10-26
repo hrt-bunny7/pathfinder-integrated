@@ -1,0 +1,31 @@
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Frontend generated files
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Python generated files
+.venv/
+venv/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+backend/careers/career_model.joblib
+
+# Local databases, uploaded resumes and logs
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+user_uploads/
+*.log
+
+# Private keys
+*.pem
+*.key

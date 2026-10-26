@@ -1,0 +1,61 @@
+{
+  "Computer Fundamentals": {
+    "category": "Foundation",
+    "importance": "High"
+  },
+
+  "Programming Fundamentals": {
+    "category": "Foundation",
+    "importance": "High"
+  },
+
+  "Mathematics": {
+    "category": "Foundation",
+    "importance": "High"
+  },
+
+  "Statistics": {
+    "category": "Foundation",
+    "importance": "High"
+  },
+
+  "Database Fundamentals": {
+    "category": "Foundation",
+    "importance": "High"
+  },
+
+  "Networking": {
+    "category": "Foundation",
+    "importance": "High"
+  },
+
+  "Linux": {
+    "category": "Foundation",
+    "importance": "Medium"
+  },
+
+  "Git": {
+    "category": "Foundation",
+    "importance": "Medium"
+  },
+
+  "Web Fundamentals": {
+    "category": "Foundation",
+    "importance": "Medium"
+  },
+
+  "Testing Fundamentals": {
+    "category": "Foundation",
+    "importance": "Medium"
+  },
+
+  "Cybersecurity Fundamentals": {
+    "category": "Foundation",
+    "importance": "Medium"
+  },
+
+  "Cloud Computing Fundamentals": {
+    "category": "Foundation",
+    "importance": "Medium"
+  }
+}

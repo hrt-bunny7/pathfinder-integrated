@@ -1,0 +1,342 @@
+{
+  "Computer Fundamentals": [],
+  "Programming Fundamentals": [
+    "Computer Fundamentals"
+  ],
+  "Mathematics": [
+    "Computer Fundamentals"
+  ],
+  "Statistics": [
+    "Mathematics"
+  ],
+  "Database Fundamentals": [
+    "Computer Fundamentals"
+  ],
+  "Networking": [
+    "Computer Fundamentals"
+  ],
+  "Linux": [
+    "Computer Fundamentals"
+  ],
+  "Git": [
+    "Computer Fundamentals"
+  ],
+  "Web Fundamentals": [
+    "Computer Fundamentals"
+  ],
+  "Testing Fundamentals": [
+    "Computer Fundamentals"
+  ],
+  "Cybersecurity Fundamentals": [
+    "Computer Fundamentals",
+    "Networking",
+    "Linux"
+  ],
+  "Cloud Computing Fundamentals": [
+    "Computer Fundamentals",
+    "Networking",
+    "Linux"
+  ],
+  "Python": [
+    "Programming Fundamentals"
+  ],
+  "Java": [
+    "Programming Fundamentals"
+  ],
+  "C++": [
+    "Programming Fundamentals"
+  ],
+  "C#": [
+    "Programming Fundamentals"
+  ],
+  "JavaScript": [
+    "Programming Fundamentals",
+    "Web Fundamentals"
+  ],
+  "R": [
+    "Programming Fundamentals"
+  ],
+  "HTML": [
+    "Web Fundamentals"
+  ],
+  "CSS": [
+    "HTML"
+  ],
+  "TypeScript": [
+    "JavaScript"
+  ],
+  "React": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "Angular": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "Node.js": [
+    "JavaScript"
+  ],
+  "PHP": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "SQL": [
+    "Database Fundamentals"
+  ],
+  "PostgreSQL": [
+    "SQL"
+  ],
+  "MySQL": [
+    "SQL"
+  ],
+  "SQL Server": [
+    "SQL"
+  ],
+  "MongoDB": [
+    "Database Fundamentals"
+  ],
+  "NoSQL": [
+    "Database Fundamentals"
+  ],
+  "Snowflake": [
+    "SQL",
+    "Cloud Computing Fundamentals"
+  ],
+  "Redshift": [
+    "SQL",
+    "AWS"
+  ],
+  "Redis": [
+    "Database Fundamentals"
+  ],
+  "NumPy": [
+    "Python",
+    "Mathematics"
+  ],
+  "Pandas": [
+    "Python",
+    "NumPy"
+  ],
+  "Machine Learning": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Statistics"
+  ],
+  "Scikit-learn": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "Deep Learning": [
+    "Python",
+    "NumPy",
+    "Machine Learning"
+  ],
+  "TensorFlow": [
+    "Python",
+    "Deep Learning"
+  ],
+  "PyTorch": [
+    "Python",
+    "Deep Learning"
+  ],
+  "Hugging Face": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "LangChain": [
+    "Python",
+    "Machine Learning"
+  ],
+  "Spark": [
+    "Python",
+    "SQL"
+  ],
+  "Hadoop": [
+    "Java",
+    "Linux"
+  ],
+  "Scala": [
+    "Programming Fundamentals"
+  ],
+  "Tableau": [
+    "SQL"
+  ],
+  "Power BI": [
+    "SQL",
+    "Excel"
+  ],
+  "Excel": [
+    "Computer Fundamentals"
+  ],
+  "REST API": [
+    "HTTP",
+    "Programming Fundamentals"
+  ],
+  "HTTP": [
+    "Networking"
+  ],
+  "Web Development": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "Docker": [
+    "Linux",
+    "Cloud Computing Fundamentals"
+  ],
+  "AWS": [
+    "Linux",
+    "Networking",
+    "Cloud Computing Fundamentals"
+  ],
+  "Azure": [
+    "Linux",
+    "Networking",
+    "Cloud Computing Fundamentals"
+  ],
+  "Kubernetes": [
+    "Linux",
+    "Docker"
+  ],
+  "Terraform": [
+    "Cloud Computing Fundamentals",
+    "Linux"
+  ],
+  "Ansible": [
+    "Linux",
+    "Python"
+  ],
+  "Jenkins": [
+    "Git",
+    "Linux"
+  ],
+  "Bash": [
+    "Linux"
+  ],
+  "PowerShell": [
+    "Windows Server"
+  ],
+  "Windows Server": [
+    "Computer Fundamentals",
+    "Networking"
+  ],
+  "Active Directory": [
+    "Windows Server"
+  ],
+  "Red Hat Linux": [
+    "Linux"
+  ],
+  "UNIX": [
+    "Linux"
+  ],
+  "Firewall": [
+    "Networking",
+    "Cybersecurity Fundamentals"
+  ],
+  "Splunk": [
+    "Linux",
+    "Networking",
+    "Cybersecurity Fundamentals"
+  ],
+  "MITRE ATT&CK": [
+    "Cybersecurity Fundamentals"
+  ],
+  "Nessus": [
+    "Networking",
+    "Cybersecurity Fundamentals"
+  ],
+  "Selenium": [
+    "Python",
+    "Web Fundamentals",
+    "Testing Fundamentals"
+  ],
+  "Playwright": [
+    "JavaScript",
+    "Web Fundamentals",
+    "Testing Fundamentals"
+  ],
+  "Postman": [
+    "REST API",
+    "Testing Fundamentals"
+  ],
+  "JMeter": [
+    "HTTP",
+    "Testing Fundamentals"
+  ],
+  "TestNG": [
+    "Java",
+    "Testing Fundamentals"
+  ],
+  "Appium": [
+    "Java",
+    "Testing Fundamentals"
+  ],
+  "Jira": [
+    "Testing Fundamentals"
+  ],
+  "ServiceNow": [
+    "IT Fundamentals"
+  ],
+  "IT Fundamentals": [
+    "Computer Fundamentals"
+  ],
+  "Kafka": [
+    "Programming Fundamentals",
+    "Distributed Systems"
+  ],
+  "Airflow": [
+    "Python",
+    "SQL"
+  ],
+  "Distributed Systems": [
+    "Programming Fundamentals",
+    "Networking"
+  ],
+  "GitHub": [
+    "Git"
+  ],
+  "SAP": [
+    "Database Fundamentals"
+  ],
+  "SAS": [
+    "Statistics"
+  ],
+  "Data Analysis": [
+    "Python",
+    "Statistics"
+  ],
+  "Data Visualization": [
+    "Data Analysis"
+  ],
+  "Data Cleaning": [
+    "Python",
+    "Pandas"
+  ],
+  "Exploratory Data Analysis": [
+    "Python",
+    "Pandas",
+    "Statistics"
+  ],
+  "Feature Engineering": [
+    "Python",
+    "Pandas",
+    "Statistics"
+  ],
+  "Model Evaluation": [
+    "Statistics",
+    "Machine Learning"
+  ],
+  "Data Storytelling": [
+    "Data Analysis",
+    "Data Visualization"
+  ],
+  "Critical Thinking": []
+}

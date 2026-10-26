@@ -1,0 +1,3836 @@
+{
+  "Computer Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GCFGlobal Computer Basics",
+        "type": "Course",
+        "url": "https://edu.gcfglobal.org/en/computerbasics/"
+      }
+    ],
+    "practice": "Learn basic computer hardware, operating systems, files, applications and internet concepts.",
+    "project": "Create a document explaining the components of a computer system."
+  },
+  "Programming Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Python Tutorial",
+        "type": "Documentation",
+        "url": "https://docs.python.org/3/tutorial/"
+      }
+    ],
+    "practice": "Solve basic problems involving variables, conditions, loops, functions and data structures.",
+    "project": "Build a simple calculator or student grade calculator."
+  },
+  "Mathematics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Khan Academy Mathematics",
+        "type": "Course",
+        "url": "https://www.khanacademy.org/math"
+      }
+    ],
+    "practice": "Practice algebra, functions, matrices and basic mathematical reasoning.",
+    "project": "Implement basic mathematical operations and visualizations in Python."
+  },
+  "Statistics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Khan Academy Statistics and Probability",
+        "type": "Course",
+        "url": "https://www.khanacademy.org/math/statistics-probability"
+      }
+    ],
+    "practice": "Practice mean, median, variance, probability, distributions and hypothesis testing.",
+    "project": "Analyze a small dataset and calculate descriptive statistics."
+  },
+  "Python": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Python Official Tutorial",
+        "type": "Documentation",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      {
+        "name": "Kaggle Python",
+        "type": "Course",
+        "url": "https://www.kaggle.com/learn/python"
+      }
+    ],
+    "practice": "Solve Python programming problems involving functions, lists, dictionaries, strings and files.",
+    "project": "Build a command-line student management system."
+  },
+  "SQL": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PostgreSQL SQL Tutorial",
+        "type": "Documentation",
+        "url": "https://www.postgresql.org/docs/current/tutorial.html"
+      }
+    ],
+    "practice": "Practice SELECT, WHERE, JOIN, GROUP BY, aggregate functions and subqueries.",
+    "project": "Create a student database and write queries to analyze student records."
+  },
+  "NumPy": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NumPy Learn",
+        "type": "Documentation",
+        "url": "https://numpy.org/learn/"
+      }
+    ],
+    "practice": "Practice arrays, indexing, slicing, broadcasting and mathematical operations.",
+    "project": "Analyze numerical data using NumPy arrays."
+  },
+  "Pandas": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Pandas Getting Started",
+        "type": "Documentation",
+        "url": "https://pandas.pydata.org/docs/getting_started/"
+      }
+    ],
+    "practice": "Practice loading, cleaning, filtering, grouping and analyzing datasets.",
+    "project": "Analyze a CSV dataset and produce a summary report."
+  },
+  "Machine Learning": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "Scikit-learn User Guide",
+        "type": "Documentation",
+        "url": "https://scikit-learn.org/stable/user_guide.html"
+      },
+      {
+        "name": "Kaggle Intro to Machine Learning",
+        "type": "Course",
+        "url": "https://www.kaggle.com/learn/intro-to-machine-learning"
+      }
+    ],
+    "practice": "Practice regression, classification, feature preprocessing and model evaluation.",
+    "project": "Build a house-price prediction or student-performance prediction model."
+  },
+  "Scikit-learn": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "Scikit-learn Getting Started",
+        "type": "Documentation",
+        "url": "https://scikit-learn.org/stable/getting_started.html"
+      }
+    ],
+    "practice": "Train and evaluate classification and regression models.",
+    "project": "Build an end-to-end machine learning pipeline."
+  },
+  "Deep Learning": {
+    "level": "Advanced",
+    "resources": [
+      {
+        "name": "TensorFlow Tutorials",
+        "type": "Documentation",
+        "url": "https://www.tensorflow.org/tutorials"
+      },
+      {
+        "name": "PyTorch Tutorials",
+        "type": "Documentation",
+        "url": "https://docs.pytorch.org/tutorials/"
+      }
+    ],
+    "practice": "Practice neural networks, backpropagation, optimization and model evaluation.",
+    "project": "Build an image or text classification model."
+  },
+  "TensorFlow": {
+    "level": "Advanced",
+    "resources": [
+      {
+        "name": "TensorFlow Tutorials",
+        "type": "Documentation",
+        "url": "https://www.tensorflow.org/tutorials"
+      }
+    ],
+    "practice": "Complete beginner Keras tutorials and train neural networks.",
+    "project": "Build an image classification model using TensorFlow."
+  },
+  "PyTorch": {
+    "level": "Advanced",
+    "resources": [
+      {
+        "name": "PyTorch Learn the Basics",
+        "type": "Documentation",
+        "url": "https://docs.pytorch.org/tutorials/beginner/basics/"
+      }
+    ],
+    "practice": "Practice tensors, datasets, data loaders, neural networks and optimization.",
+    "project": "Build a neural-network image classifier."
+  },
+  "R": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "R Documentation",
+        "type": "Documentation",
+        "url": "https://www.r-project.org/other-docs.html"
+      }
+    ],
+    "practice": "Practice vectors, data frames, functions and statistical analysis.",
+    "project": "Perform statistical analysis on a dataset using R."
+  },
+  "Java": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Dev.java Learn",
+        "type": "Documentation",
+        "url": "https://dev.java/learn/"
+      }
+    ],
+    "practice": "Practice object-oriented programming, collections and exception handling.",
+    "project": "Build a console-based library management system."
+  },
+  "C++": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "C++ Reference",
+        "type": "Documentation",
+        "url": "https://en.cppreference.com/w/"
+      }
+    ],
+    "practice": "Practice STL, functions, classes, pointers and data structures.",
+    "project": "Build a command-line inventory management system."
+  },
+  "JavaScript": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MDN JavaScript Guide",
+        "type": "Documentation",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      }
+    ],
+    "practice": "Practice functions, objects, arrays, DOM manipulation and asynchronous programming.",
+    "project": "Build an interactive to-do list."
+  },
+  "HTML": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MDN HTML Tutorials",
+        "type": "Documentation",
+        "url": "https://developer.mozilla.org/en-US/docs/MDN/Tutorials"
+      }
+    ],
+    "practice": "Create webpages using semantic HTML, forms, tables, links and multimedia.",
+    "project": "Create a personal portfolio webpage."
+  },
+  "CSS": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MDN CSS Tutorials",
+        "type": "Documentation",
+        "url": "https://developer.mozilla.org/en-US/docs/MDN/Tutorials"
+      }
+    ],
+    "practice": "Practice selectors, box model, flexbox, grid and responsive design.",
+    "project": "Build a responsive portfolio website."
+  },
+  "React": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "React Learn",
+        "type": "Documentation",
+        "url": "https://react.dev/learn"
+      }
+    ],
+    "practice": "Practice components, props, state, events and hooks.",
+    "project": "Build a career recommendation dashboard."
+  },
+  "Node.js": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "Node.js Learn",
+        "type": "Documentation",
+        "url": "https://nodejs.org/en/learn"
+      }
+    ],
+    "practice": "Build HTTP servers, APIs and backend applications.",
+    "project": "Build a REST API for a student profile system."
+  },
+  "REST API": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "MDN HTTP Overview",
+        "type": "Documentation",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP"
+      }
+    ],
+    "practice": "Practice HTTP methods, status codes, requests, responses and JSON.",
+    "project": "Build a REST API for career recommendations."
+  },
+  "Git": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Git Documentation",
+        "type": "Documentation",
+        "url": "https://git-scm.com/doc"
+      }
+    ],
+    "practice": "Practice commits, branches, merges, pull requests and resolving conflicts.",
+    "project": "Collaborate on a small project using Git branches."
+  },
+  "GitHub": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GitHub Skills",
+        "type": "Course",
+        "url": "https://skills.github.com/"
+      }
+    ],
+    "practice": "Practice repositories, branches, pull requests and issues.",
+    "project": "Create and collaborate on a team GitHub repository."
+  },
+  "Linux": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Linux Journey",
+        "type": "Course",
+        "url": "https://linuxjourney.com/"
+      }
+    ],
+    "practice": "Practice the terminal, files, permissions, processes and networking commands.",
+    "project": "Create a Bash script that automates file management."
+  },
+  "Docker": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "Docker Get Started",
+        "type": "Documentation",
+        "url": "https://docs.docker.com/get-started/"
+      }
+    ],
+    "practice": "Build images, run containers and create Dockerfiles.",
+    "project": "Containerize a Python web application."
+  },
+  "Kubernetes": {
+    "level": "Advanced",
+    "resources": [
+      {
+        "name": "Kubernetes Tutorials",
+        "type": "Documentation",
+        "url": "https://kubernetes.io/docs/tutorials/"
+      }
+    ],
+    "practice": "Practice pods, deployments, services and configuration.",
+    "project": "Deploy a containerized web application on Kubernetes."
+  },
+  "AWS": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AWS Getting Started",
+        "type": "Documentation",
+        "url": "https://aws.amazon.com/getting-started/"
+      }
+    ],
+    "practice": "Learn cloud concepts and practice basic AWS services such as S3 and Lambda.",
+    "project": "Deploy a simple web application using AWS."
+  },
+  "Azure": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Azure Fundamentals",
+        "type": "Course",
+        "url": "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
+      }
+    ],
+    "practice": "Learn cloud concepts, Azure compute, storage and networking.",
+    "project": "Deploy a simple application using Azure."
+  },
+  "Tableau": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Tableau Training",
+        "type": "Course",
+        "url": "https://www.tableau.com/learn/training"
+      }
+    ],
+    "practice": "Create charts, dashboards and interactive visualizations.",
+    "project": "Create a student performance dashboard."
+  },
+  "Power BI": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn Power BI",
+        "type": "Course",
+        "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
+      }
+    ],
+    "practice": "Import data, clean data and create interactive dashboards.",
+    "project": "Build a career or student analytics dashboard."
+  },
+  "Excel": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Excel Help",
+        "type": "Documentation",
+        "url": "https://support.microsoft.com/excel"
+      }
+    ],
+    "practice": "Practice formulas, functions, filtering, pivot tables and charts.",
+    "project": "Create a student performance analysis workbook."
+  },
+  "Selenium": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "Selenium Documentation",
+        "type": "Documentation",
+        "url": "https://www.selenium.dev/documentation/"
+      }
+    ],
+    "practice": "Automate browser actions and test web applications.",
+    "project": "Create automated tests for a login and registration system."
+  },
+  "Postman": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Postman Learning Center",
+        "type": "Course",
+        "url": "https://learning.postman.com/"
+      }
+    ],
+    "practice": "Send API requests and test REST endpoints.",
+    "project": "Create a collection that tests a REST API."
+  },
+  "Cybersecurity Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NIST Cybersecurity Framework",
+        "type": "Documentation",
+        "url": "https://www.nist.gov/cyberframework"
+      }
+    ],
+    "practice": "Learn authentication, authorization, vulnerabilities, threats and security controls.",
+    "project": "Perform a basic security assessment of a demo application."
+  },
+  "Networking": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cisco Networking Basics",
+        "type": "Course",
+        "url": "https://www.cisco.com/site/us/en/learn/topics/networking/what-is-computer-networking.html"
+      }
+    ],
+    "practice": "Learn IP addresses, DNS, HTTP, TCP/IP, routing and basic network troubleshooting.",
+    "project": "Design a small network and document its IP addressing scheme."
+  },
+  "Cloud Computing Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Azure Fundamentals",
+        "type": "Course",
+        "url": "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
+      },
+      {
+        "name": "AWS Getting Started",
+        "type": "Documentation",
+        "url": "https://aws.amazon.com/getting-started/"
+      }
+    ],
+    "practice": "Learn compute, storage, networking, virtualization and cloud deployment concepts.",
+    "project": "Deploy a simple application to a cloud platform."
+  },
+  "Database Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PostgreSQL Tutorial",
+        "type": "Documentation",
+        "url": "https://www.postgresql.org/docs/current/tutorial.html"
+      }
+    ],
+    "practice": "Learn tables, keys, relationships, normalization and basic SQL.",
+    "project": "Design a relational database for a student management system."
+  },
+  "Web Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MDN Web Development Tutorials",
+        "type": "Course",
+        "url": "https://developer.mozilla.org/en-US/docs/MDN/Tutorials"
+      }
+    ],
+    "practice": "Learn how HTML, CSS, JavaScript and HTTP work together.",
+    "project": "Build and publish a basic responsive website."
+  },
+  "Testing Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Learn test cases, test plans, functional testing and defect reporting.",
+    "project": "Create a test plan and test cases for a web application."
+  },
+  "Verilog": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Nandland - Verilog Tutorials",
+        "type": "Tutorial",
+        "url": "https://nandland.com/learn-verilog/"
+      }
+    ],
+    "practice": "Practice modules, ports, combinational logic, sequential logic and testbenches.",
+    "project": "Implement and simulate a 4-bit counter or traffic light controller."
+  },
+  "Visual Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Figma Resource Library",
+        "type": "Learning Resource",
+        "url": "https://www.figma.com/resource-library/"
+      }
+    ],
+    "practice": "Practice typography, color theory, contrast, spacing, alignment and visual hierarchy.",
+    "project": "Design three matching promotional graphics for a college event."
+  },
+  "Web Security": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PortSwigger Web Security Academy",
+        "type": "Free Training",
+        "url": "https://portswigger.net/web-security"
+      }
+    ],
+    "practice": "Learn authentication, access control, input validation and common web vulnerabilities using legal practice labs.",
+    "project": "Assess a deliberately vulnerable demo application and document its security issues."
+  },
+  "Web3": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Ethereum Developer Documentation",
+        "type": "Official Documentation",
+        "url": "https://ethereum.org/en/developers/docs/"
+      }
+    ],
+    "practice": "Learn blockchain basics, smart contracts, wallets and decentralized applications.",
+    "project": "Build a simple educational smart contract and test it in a development environment."
+  },
+  "Windows Server": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - Windows Server",
+        "type": "Official Training",
+        "url": "https://learn.microsoft.com/en-us/windows-server/"
+      }
+    ],
+    "practice": "Learn server administration, users and permissions, DNS, networking and monitoring.",
+    "project": "Configure a Windows Server virtual machine and document its basic setup."
+  },
+  "Wireframing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Figma Resource Library",
+        "type": "Learning Resource",
+        "url": "https://www.figma.com/resource-library/"
+      }
+    ],
+    "practice": "Create low-fidelity layouts, user flows, navigation structures and page sketches.",
+    "project": "Wireframe a career dashboard with a profile page, career recommendations and learning roadmap."
+  },
+  "Xcode": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apple Developer - Xcode",
+        "type": "Official Documentation",
+        "url": "https://developer.apple.com/xcode/"
+      }
+    ],
+    "practice": "Practice creating projects, using the simulator, debugging and building interfaces with Swift.",
+    "project": "Create a simple iOS app with a form and results screen."
+  },
+  "dbt": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "dbt Learn",
+        "type": "Free Learning Resource",
+        "url": "https://learn.getdbt.com/"
+      }
+    ],
+    "practice": "Practice SQL transformations, models, sources, tests and documentation.",
+    "project": "Build a dbt project that transforms raw student records into an analysis-ready dataset."
+  },
+  "iOS Development": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apple Developer - Tutorials",
+        "type": "Official Tutorials",
+        "url": "https://developer.apple.com/tutorials/"
+      }
+    ],
+    "practice": "Learn Swift, interface development, navigation, state management and debugging.",
+    "project": "Build a basic iOS career-planning app with career options and a learning checklist."
+  },
+  "3D Mathematics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Khan Academy Mathematics",
+        "type": "Course",
+        "url": "https://www.khanacademy.org/math"
+      }
+    ],
+    "practice": "Study the core concepts of 3D Mathematics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of 3D Mathematics."
+  },
+  "3D Modeling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Blender Manual - Modeling",
+        "type": "Official Documentation",
+        "url": "https://docs.blender.org/manual/en/latest/modeling/index.html"
+      }
+    ],
+    "practice": "Study the core concepts of 3D Modeling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of 3D Modeling."
+  },
+  "A/B Testing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of A/B Testing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of A/B Testing."
+  },
+  "API Testing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of API Testing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of API Testing."
+  },
+  "APIs": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MDN - Web APIs",
+        "type": "Official Documentation",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API"
+      }
+    ],
+    "practice": "Study the core concepts of APIs, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of APIs."
+  },
+  "Accessibility": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "W3C Web Accessibility Initiative - Introduction",
+        "type": "Learning Resource",
+        "url": "https://www.w3.org/WAI/fundamentals/accessibility-intro/"
+      }
+    ],
+    "practice": "Study the core concepts of Accessibility, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Accessibility."
+  },
+  "Accounting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Accounting",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Accounting+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Accounting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Accounting."
+  },
+  "Accounting Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Accounting Fundamentals",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Accounting+Fundamentals+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Accounting Fundamentals, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Accounting Fundamentals."
+  },
+  "Active Directory": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - Active Directory Domain Services",
+        "type": "Official Documentation",
+        "url": "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/"
+      }
+    ],
+    "practice": "Study the core concepts of Active Directory, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Active Directory."
+  },
+  "Agile": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian Agile Coach",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/agile"
+      }
+    ],
+    "practice": "Study the core concepts of Agile, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Agile."
+  },
+  "Airflow": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apache Airflow Documentation",
+        "type": "Official Documentation",
+        "url": "https://airflow.apache.org/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Airflow, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Airflow."
+  },
+  "Algorithms": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MIT OpenCourseWare - Introduction to Algorithms",
+        "type": "Free Course",
+        "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/"
+      }
+    ],
+    "practice": "Study the core concepts of Algorithms, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Algorithms."
+  },
+  "Analog Electronics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Analog Electronics",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Analog+Electronics+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Analog Electronics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Analog Electronics."
+  },
+  "Analytics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Tableau - Data Literacy for All",
+        "type": "Free Learning Program",
+        "url": "https://www.tableau.com/learn/data-literacy"
+      }
+    ],
+    "practice": "Study the core concepts of Analytics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Analytics."
+  },
+  "Android Development": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Android Developers - Training",
+        "type": "Official Training",
+        "url": "https://developer.android.com/courses"
+      }
+    ],
+    "practice": "Study the core concepts of Android Development, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Android Development."
+  },
+  "Android SDK": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Android Developers - Tools",
+        "type": "Official Documentation",
+        "url": "https://developer.android.com/tools"
+      }
+    ],
+    "practice": "Study the core concepts of Android SDK, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Android SDK."
+  },
+  "Angular": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Angular Tutorials",
+        "type": "Official Tutorial",
+        "url": "https://angular.dev/tutorials"
+      }
+    ],
+    "practice": "Study the core concepts of Angular, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Angular."
+  },
+  "Ansible": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Ansible Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.ansible.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Ansible, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Ansible."
+  },
+  "Appium": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Appium Documentation",
+        "type": "Official Documentation",
+        "url": "https://appium.io/docs/en/latest/"
+      }
+    ],
+    "practice": "Study the core concepts of Appium, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Appium."
+  },
+  "AutoCAD": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Autodesk Learning",
+        "type": "Learning Resource",
+        "url": "https://www.autodesk.com/learn"
+      }
+    ],
+    "practice": "Study the core concepts of AutoCAD, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of AutoCAD."
+  },
+  "BI Tools": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Tableau - Data Literacy for All",
+        "type": "Free Learning Program",
+        "url": "https://www.tableau.com/learn/data-literacy"
+      }
+    ],
+    "practice": "Study the core concepts of BI Tools, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of BI Tools."
+  },
+  "Backup and Recovery": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Backup and Recovery",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Backup+and+Recovery+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Backup and Recovery, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Backup and Recovery."
+  },
+  "Bash": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GNU Bash Reference Manual",
+        "type": "Official Documentation",
+        "url": "https://www.gnu.org/software/bash/manual/"
+      }
+    ],
+    "practice": "Study the core concepts of Bash, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Bash."
+  },
+  "Biological Data Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Biological Data Analysis",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Biological+Data+Analysis+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Biological Data Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Biological Data Analysis."
+  },
+  "Biology": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Biology",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Biology+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Biology, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Biology."
+  },
+  "Budgeting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Budgeting",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Budgeting+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Budgeting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Budgeting."
+  },
+  "Bug Reporting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Bug Tracking Guide",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/software/jira/guides/bugs/overview"
+      }
+    ],
+    "practice": "Study the core concepts of Bug Reporting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Bug Reporting."
+  },
+  "Bug Tracking": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Bug Tracking Guide",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/software/jira/guides/bugs/overview"
+      }
+    ],
+    "practice": "Study the core concepts of Bug Tracking, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Bug Tracking."
+  },
+  "Building Codes": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Building Codes",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Building+Codes+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Building Codes, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Building Codes."
+  },
+  "Burp Suite": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PortSwigger Web Security Academy",
+        "type": "Free Training",
+        "url": "https://portswigger.net/web-security"
+      }
+    ],
+    "practice": "Study the core concepts of Burp Suite, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Burp Suite."
+  },
+  "Business Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "IIBA - What Is Business Analysis?",
+        "type": "Learning Resource",
+        "url": "https://www.iiba.org/business-analysis-blogs/what-is-business-analysis/"
+      }
+    ],
+    "practice": "Study the core concepts of Business Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Business Analysis."
+  },
+  "C": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Learn-C.org - Interactive C Tutorial",
+        "type": "Tutorial",
+        "url": "https://www.learn-c.org/"
+      }
+    ],
+    "practice": "Study the core concepts of C, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of C."
+  },
+  "C#": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - C#",
+        "type": "Course",
+        "url": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+      }
+    ],
+    "practice": "Study the core concepts of C#, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of C#."
+  },
+  "CAD": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Autodesk Learning",
+        "type": "Learning Resource",
+        "url": "https://www.autodesk.com/learn"
+      }
+    ],
+    "practice": "Study the core concepts of CAD, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of CAD."
+  },
+  "CI/CD": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GitHub Actions Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.github.com/en/actions"
+      }
+    ],
+    "practice": "Study the core concepts of CI/CD, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of CI/CD."
+  },
+  "CMOS": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: CMOS",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=CMOS+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of CMOS, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of CMOS."
+  },
+  "CMOS Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: CMOS Fundamentals",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=CMOS+Fundamentals+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of CMOS Fundamentals, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of CMOS Fundamentals."
+  },
+  "Chemical Process Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Chemical Process Design",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Chemical+Process+Design+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Chemical Process Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Chemical Process Design."
+  },
+  "Circuit Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "All About Circuits - Textbook",
+        "type": "Free Textbook",
+        "url": "https://www.allaboutcircuits.com/textbook/"
+      }
+    ],
+    "practice": "Study the core concepts of Circuit Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Circuit Analysis."
+  },
+  "Cisco": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cisco Skills for All",
+        "type": "Free Training",
+        "url": "https://skillsforall.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Cisco, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Cisco."
+  },
+  "Cloud Computing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AWS Cloud Essentials",
+        "type": "Free Learning Resource",
+        "url": "https://aws.amazon.com/getting-started/cloud-essentials/"
+      }
+    ],
+    "practice": "Study the core concepts of Cloud Computing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Cloud Computing."
+  },
+  "Cloud Security": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AWS Security Learning Resources",
+        "type": "Learning Resource",
+        "url": "https://aws.amazon.com/security/learning/"
+      }
+    ],
+    "practice": "Study the core concepts of Cloud Security, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Cloud Security."
+  },
+  "Coaching": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Coaching",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Coaching+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Coaching, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Coaching."
+  },
+  "Color Theory": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Color Theory",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Color+Theory+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Color Theory, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Color Theory."
+  },
+  "Communication": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Communication",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Communication+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Communication, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Communication."
+  },
+  "Computer Architecture": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Nand2Tetris - Build a Modern Computer from First Principles",
+        "type": "Free Course",
+        "url": "https://www.nand2tetris.org/"
+      }
+    ],
+    "practice": "Study the core concepts of Computer Architecture, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Computer Architecture."
+  },
+  "Computer Graphics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "LearnOpenGL",
+        "type": "Tutorial",
+        "url": "https://learnopengl.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Computer Graphics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Computer Graphics."
+  },
+  "Computer Vision": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Computer Vision",
+        "type": "Course",
+        "url": "https://www.kaggle.com/learn/computer-vision"
+      }
+    ],
+    "practice": "Study the core concepts of Computer Vision, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Computer Vision."
+  },
+  "Conflict Resolution": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Conflict Resolution",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Conflict+Resolution+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Conflict Resolution, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Conflict Resolution."
+  },
+  "Construction Management": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Construction Management",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Construction+Management+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Construction Management, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Construction Management."
+  },
+  "Construction Methods": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Construction Methods",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Construction+Methods+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Construction Methods, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Construction Methods."
+  },
+  "Containers": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Docker Get Started",
+        "type": "Official Tutorial",
+        "url": "https://docs.docker.com/get-started/"
+      }
+    ],
+    "practice": "Study the core concepts of Containers, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Containers."
+  },
+  "Control Systems": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Control Systems",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Control+Systems+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Control Systems, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Control Systems."
+  },
+  "Control Theory": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Control Theory",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Control+Theory+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Control Theory, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Control Theory."
+  },
+  "Core Data": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Core Data",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Core+Data+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Core Data, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Core Data."
+  },
+  "Cryptography": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "CryptoHack",
+        "type": "Free Interactive Course",
+        "url": "https://cryptohack.org/"
+      }
+    ],
+    "practice": "Study the core concepts of Cryptography, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Cryptography."
+  },
+  "Dart": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Dart Tutorials",
+        "type": "Official Tutorial",
+        "url": "https://dart.dev/tutorials"
+      }
+    ],
+    "practice": "Study the core concepts of Dart, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Dart."
+  },
+  "Data Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Pandas",
+        "type": "Free Course",
+        "url": "https://www.kaggle.com/learn/pandas"
+      }
+    ],
+    "practice": "Study the core concepts of Data Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Analysis."
+  },
+  "Data Cleaning": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Data Cleaning",
+        "type": "Free Course",
+        "url": "https://www.kaggle.com/learn/data-cleaning"
+      }
+    ],
+    "practice": "Clean a messy CSV: handle missing values, inconsistent labels, duplicates, and incorrect data types. Record each cleaning decision.",
+    "project": "Build a reusable data-cleaning notebook and compare row counts, missing-value totals, and summary statistics before and after cleaning."
+  },
+  "Data Integration": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - Data Integration",
+        "type": "Learning Resource",
+        "url": "https://learn.microsoft.com/en-us/azure/data-factory/"
+      }
+    ],
+    "practice": "Study the core concepts of Data Integration, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Integration."
+  },
+  "Data Modeling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "dbt Documentation - Data Modeling",
+        "type": "Official Documentation",
+        "url": "https://docs.getdbt.com/docs/build/models"
+      }
+    ],
+    "practice": "Study the core concepts of Data Modeling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Modeling."
+  },
+  "Data Pipelines": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apache Airflow Documentation",
+        "type": "Official Documentation",
+        "url": "https://airflow.apache.org/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Data Pipelines, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Pipelines."
+  },
+  "Data Quality": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Great Expectations Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.greatexpectations.io/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Data Quality, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Quality."
+  },
+  "Data Structures": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MIT OpenCourseWare - Introduction to Algorithms",
+        "type": "Free Course",
+        "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/"
+      }
+    ],
+    "practice": "Study the core concepts of Data Structures, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Structures."
+  },
+  "Data Transformation": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Pandas User Guide",
+        "type": "Official Documentation",
+        "url": "https://pandas.pydata.org/docs/user_guide/index.html"
+      }
+    ],
+    "practice": "Study the core concepts of Data Transformation, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Transformation."
+  },
+  "Data Visualization": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Data Visualization",
+        "type": "Course",
+        "url": "https://www.kaggle.com/learn/data-visualization"
+      }
+    ],
+    "practice": "Study the core concepts of Data Visualization, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Visualization."
+  },
+  "Data Warehousing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Snowflake Documentation - Data Warehousing",
+        "type": "Official Documentation",
+        "url": "https://docs.snowflake.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Data Warehousing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Data Warehousing."
+  },
+  "Database Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "SQLBolt - Interactive SQL Lessons",
+        "type": "Free Tutorial",
+        "url": "https://sqlbolt.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Database Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Database Design."
+  },
+  "Databases": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "SQLBolt - Interactive SQL Lessons",
+        "type": "Free Tutorial",
+        "url": "https://sqlbolt.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Databases, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Databases."
+  },
+  "Debugging": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Visual Studio Code - Debugging",
+        "type": "Official Documentation",
+        "url": "https://code.visualstudio.com/docs/editor/debugging"
+      }
+    ],
+    "practice": "Study the core concepts of Debugging, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Debugging."
+  },
+  "Design Systems": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Material Design Guidelines",
+        "type": "Design Guidelines",
+        "url": "https://m3.material.io/"
+      }
+    ],
+    "practice": "Study the core concepts of Design Systems, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Design Systems."
+  },
+  "Design Tools": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Design Tools",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Design+Tools+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Design Tools, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Design Tools."
+  },
+  "Design for Manufacturing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Design for Manufacturing",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Design+for+Manufacturing+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Design for Manufacturing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Design for Manufacturing."
+  },
+  "Digital Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Nand2Tetris - Build a Modern Computer from First Principles",
+        "type": "Free Course",
+        "url": "https://www.nand2tetris.org/"
+      }
+    ],
+    "practice": "Study the core concepts of Digital Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Digital Design."
+  },
+  "Digital Electronics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "All About Circuits - Textbook",
+        "type": "Free Textbook",
+        "url": "https://www.allaboutcircuits.com/textbook/"
+      }
+    ],
+    "practice": "Study the core concepts of Digital Electronics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Digital Electronics."
+  },
+  "Digital Forensics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NIST Computer Forensics Tool Testing",
+        "type": "Official Resource",
+        "url": "https://www.nist.gov/itl/ssd/software-quality-group/computer-forensics-tool-testing-program-cftt"
+      }
+    ],
+    "practice": "Study the core concepts of Digital Forensics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Digital Forensics."
+  },
+  "Digital Logic": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Digital Logic",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Digital+Logic+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Digital Logic, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Digital Logic."
+  },
+  "Distributed Systems": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Distributed Systems",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Distributed+Systems+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Distributed Systems, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Distributed Systems."
+  },
+  "Documentation": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Developer Documentation Style Guide",
+        "type": "Official Guide",
+        "url": "https://developers.google.com/style"
+      }
+    ],
+    "practice": "Study the core concepts of Documentation, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Documentation."
+  },
+  "EDA Tools": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AMD Vivado Design Suite",
+        "type": "Official Documentation",
+        "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"
+      }
+    ],
+    "practice": "Study the core concepts of EDA Tools, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of EDA Tools."
+  },
+  "ETL": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: ETL",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=ETL+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of ETL, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of ETL."
+  },
+  "Electrical Machines": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Electrical Machines",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Electrical+Machines+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Electrical Machines, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Electrical Machines."
+  },
+  "Electrical Safety": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Electrical Safety",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Electrical+Safety+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Electrical Safety, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Electrical Safety."
+  },
+  "Electronics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Electronics",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Electronics+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Electronics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Electronics."
+  },
+  "Embedded Systems": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Arduino Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.arduino.cc/"
+      }
+    ],
+    "practice": "Study the core concepts of Embedded Systems, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Embedded Systems."
+  },
+  "Engineering Drawing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Engineering Drawing",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Engineering+Drawing+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Engineering Drawing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Engineering Drawing."
+  },
+  "Engineering Mechanics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Engineering Mechanics",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Engineering+Mechanics+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Engineering Mechanics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Engineering Mechanics."
+  },
+  "Evaluation": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Evaluation",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Evaluation+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Evaluation, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Evaluation."
+  },
+  "Evidence Handling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Evidence Handling",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Evidence+Handling+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Evidence Handling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Evidence Handling."
+  },
+  "Experiment Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Experiment Analysis",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Experiment+Analysis+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Experiment Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Experiment Analysis."
+  },
+  "Experiment Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "OpenIntro Statistics",
+        "type": "Free Textbook",
+        "url": "https://www.openintro.org/book/os/"
+      }
+    ],
+    "practice": "Study the core concepts of Experiment Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Experiment Design."
+  },
+  "FEA": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: FEA",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=FEA+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of FEA, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of FEA."
+  },
+  "FPGA Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AMD Vivado Design Suite",
+        "type": "Official Documentation",
+        "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"
+      }
+    ],
+    "practice": "Study the core concepts of FPGA Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of FPGA Design."
+  },
+  "FPGA Tools": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AMD Vivado Design Suite",
+        "type": "Official Documentation",
+        "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"
+      }
+    ],
+    "practice": "Study the core concepts of FPGA Tools, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of FPGA Tools."
+  },
+  "Facilitation": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Facilitation",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Facilitation+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Facilitation, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Facilitation."
+  },
+  "Figma": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Figma Resource Library",
+        "type": "Learning Resource",
+        "url": "https://www.figma.com/resource-library/"
+      }
+    ],
+    "practice": "Study the core concepts of Figma, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Figma."
+  },
+  "Financial Mathematics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Khan Academy Mathematics",
+        "type": "Course",
+        "url": "https://www.khanacademy.org/math"
+      }
+    ],
+    "practice": "Study the core concepts of Financial Mathematics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Financial Mathematics."
+  },
+  "Financial Modeling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Financial Modeling",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Financial+Modeling+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Financial Modeling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Financial Modeling."
+  },
+  "Firebase": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Firebase Documentation",
+        "type": "Official Documentation",
+        "url": "https://firebase.google.com/docs"
+      }
+    ],
+    "practice": "Study the core concepts of Firebase, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Firebase."
+  },
+  "Firewall": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cloudflare Learning - What Is a Firewall?",
+        "type": "Learning Resource",
+        "url": "https://www.cloudflare.com/learning/security/what-is-a-firewall/"
+      }
+    ],
+    "practice": "Study the core concepts of Firewall, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Firewall."
+  },
+  "Firewalls": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cloudflare Learning - What Is a Firewall?",
+        "type": "Learning Resource",
+        "url": "https://www.cloudflare.com/learning/security/what-is-a-firewall/"
+      }
+    ],
+    "practice": "Study the core concepts of Firewalls, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Firewalls."
+  },
+  "Fluid Mechanics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Fluid Mechanics",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Fluid+Mechanics+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Fluid Mechanics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Fluid Mechanics."
+  },
+  "Flutter": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Flutter Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.flutter.dev/"
+      }
+    ],
+    "practice": "Study the core concepts of Flutter, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Flutter."
+  },
+  "Forecasting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Time Series",
+        "type": "Free Course",
+        "url": "https://www.kaggle.com/learn/time-series"
+      }
+    ],
+    "practice": "Study the core concepts of Forecasting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Forecasting."
+  },
+  "Game Engines": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Unity Learn",
+        "type": "Free Learning Resource",
+        "url": "https://learn.unity.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Game Engines, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Game Engines."
+  },
+  "Genomics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NCBI Training and Tutorials",
+        "type": "Official Training",
+        "url": "https://www.ncbi.nlm.nih.gov/home/training/"
+      }
+    ],
+    "practice": "Study the core concepts of Genomics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Genomics."
+  },
+  "Google Analytics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Analytics Academy on Skillshop",
+        "type": "Free Training",
+        "url": "https://skillshop.withgoogle.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Google Analytics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Google Analytics."
+  },
+  "Grafana": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Grafana Documentation",
+        "type": "Official Documentation",
+        "url": "https://grafana.com/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Grafana, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Grafana."
+  },
+  "Hadoop": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apache Hadoop Documentation",
+        "type": "Official Documentation",
+        "url": "https://hadoop.apache.org/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Hadoop, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Hadoop."
+  },
+  "Heat Transfer": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Heat Transfer",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Heat+Transfer+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Heat Transfer, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Heat Transfer."
+  },
+  "Hugging Face": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Hugging Face Learn",
+        "type": "Free Learning Resource",
+        "url": "https://huggingface.co/learn"
+      }
+    ],
+    "practice": "Study the core concepts of Hugging Face, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Hugging Face."
+  },
+  "IAM": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AWS Identity and Access Management Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"
+      }
+    ],
+    "practice": "Study the core concepts of IAM, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of IAM."
+  },
+  "Identity and Access Management": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - Identity and Access",
+        "type": "Official Training",
+        "url": "https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/"
+      }
+    ],
+    "practice": "Study the core concepts of Identity and Access Management, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Identity and Access Management."
+  },
+  "Image Processing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "OpenCV Tutorials",
+        "type": "Official Tutorials",
+        "url": "https://docs.opencv.org/4.x/d9/df8/tutorial_root.html"
+      }
+    ],
+    "practice": "Study the core concepts of Image Processing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Image Processing."
+  },
+  "Incident Response": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NIST - Computer Security Incident Handling Guide",
+        "type": "Official Publication",
+        "url": "https://csrc.nist.gov/pubs/sp/800/61/r3/final"
+      }
+    ],
+    "practice": "Study the core concepts of Incident Response, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Incident Response."
+  },
+  "Information Architecture": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Information Architecture",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Information+Architecture+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Information Architecture, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Information Architecture."
+  },
+  "Interaction Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Interaction Design",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Interaction+Design+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Interaction Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Interaction Design."
+  },
+  "Interviewing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Interviewing",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Interviewing+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Interviewing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Interviewing."
+  },
+  "JMeter": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apache JMeter User Manual",
+        "type": "Official Documentation",
+        "url": "https://jmeter.apache.org/usermanual/index.html"
+      }
+    ],
+    "practice": "Study the core concepts of JMeter, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of JMeter."
+  },
+  "Jenkins": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Jenkins User Documentation",
+        "type": "Official Documentation",
+        "url": "https://www.jenkins.io/doc/"
+      }
+    ],
+    "practice": "Study the core concepts of Jenkins, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Jenkins."
+  },
+  "Jetpack Compose": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Android Developers - Jetpack Compose",
+        "type": "Official Documentation",
+        "url": "https://developer.android.com/compose"
+      }
+    ],
+    "practice": "Study the core concepts of Jetpack Compose, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Jetpack Compose."
+  },
+  "Jira": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian University",
+        "type": "Learning Resource",
+        "url": "https://university.atlassian.com/student/catalog"
+      }
+    ],
+    "practice": "Study the core concepts of Jira, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Jira."
+  },
+  "Kafka": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apache Kafka Documentation",
+        "type": "Official Documentation",
+        "url": "https://kafka.apache.org/documentation/"
+      }
+    ],
+    "practice": "Study the core concepts of Kafka, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Kafka."
+  },
+  "Kotlin": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kotlin Documentation",
+        "type": "Official Documentation",
+        "url": "https://kotlinlang.org/docs/home.html"
+      }
+    ],
+    "practice": "Study the core concepts of Kotlin, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Kotlin."
+  },
+  "LLMs": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Hugging Face Learn",
+        "type": "Free Learning Resource",
+        "url": "https://huggingface.co/learn"
+      }
+    ],
+    "practice": "Study the core concepts of LLMs, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of LLMs."
+  },
+  "LangChain": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: LangChain",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=LangChain+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of LangChain, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of LangChain."
+  },
+  "Leadership": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Leadership",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Leadership+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Leadership, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Leadership."
+  },
+  "Linear Algebra": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Khan Academy - Linear Algebra",
+        "type": "Free Course",
+        "url": "https://www.khanacademy.org/math/linear-algebra"
+      }
+    ],
+    "practice": "Study the core concepts of Linear Algebra, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Linear Algebra."
+  },
+  "Log Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Splunk Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.splunk.com/Documentation"
+      }
+    ],
+    "practice": "Study the core concepts of Log Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Log Analysis."
+  },
+  "MATLAB": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MATLAB Academy",
+        "type": "Free Learning Resource",
+        "url": "https://matlabacademy.mathworks.com/"
+      }
+    ],
+    "practice": "Study the core concepts of MATLAB, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of MATLAB."
+  },
+  "MITRE ATT&CK": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MITRE ATT&CK Knowledge Base",
+        "type": "Official Resource",
+        "url": "https://attack.mitre.org/"
+      }
+    ],
+    "practice": "Study the core concepts of MITRE ATT&CK, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of MITRE ATT&CK."
+  },
+  "MLOps": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Cloud - MLOps Continuous Delivery and Automation Pipelines",
+        "type": "Architecture Guide",
+        "url": "https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning"
+      }
+    ],
+    "practice": "Study the core concepts of MLOps, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of MLOps."
+  },
+  "MQTT": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MQTT - Getting Started",
+        "type": "Learning Resource",
+        "url": "https://mqtt.org/getting-started/"
+      }
+    ],
+    "practice": "Study the core concepts of MQTT, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of MQTT."
+  },
+  "Manufacturing Processes": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Manufacturing Processes",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Manufacturing+Processes+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Manufacturing Processes, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Manufacturing Processes."
+  },
+  "Market Research": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Market Research",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Market+Research+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Market Research, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Market Research."
+  },
+  "Marketing Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "HubSpot Academy - Digital Marketing",
+        "type": "Free Course",
+        "url": "https://academy.hubspot.com/courses/digital-marketing"
+      }
+    ],
+    "practice": "Study the core concepts of Marketing Fundamentals, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Marketing Fundamentals."
+  },
+  "Marketing Metrics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Marketing Metrics",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Marketing+Metrics+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Marketing Metrics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Marketing Metrics."
+  },
+  "Mass Transfer": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Mass Transfer",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Mass+Transfer+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Mass Transfer, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Mass Transfer."
+  },
+  "Mass and Energy Balances": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Mass and Energy Balances",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Mass+and+Energy+Balances+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Mass and Energy Balances, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Mass and Energy Balances."
+  },
+  "Materials Science": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Materials Science",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Materials+Science+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Materials Science, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Materials Science."
+  },
+  "Metasploit": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Metasploit",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Metasploit+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Metasploit, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Metasploit."
+  },
+  "Microcontrollers": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Microcontrollers",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Microcontrollers+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Microcontrollers, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Microcontrollers."
+  },
+  "Microservices": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Microservices",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Microservices+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Microservices, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Microservices."
+  },
+  "Mobile Development": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Mobile Development",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Mobile+Development+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Mobile Development, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Mobile Development."
+  },
+  "Model Deployment": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MLflow Documentation",
+        "type": "Official Documentation",
+        "url": "https://mlflow.org/docs/latest/"
+      }
+    ],
+    "practice": "Study the core concepts of Model Deployment, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Model Deployment."
+  },
+  "Model Evaluation": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "scikit-learn - Model Evaluation",
+        "type": "Official Documentation",
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
+      },
+      {
+        "name": "scikit-learn - Cross-validation",
+        "type": "Official Documentation",
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+      }
+    ],
+    "practice": "Compare a baseline and a trained model using an appropriate metric, held-out data, and cross-validation. Explain why the chosen metric fits the problem.",
+    "project": "Evaluate a classification or regression model and write a short report covering data splitting, metric selection, baseline comparison, and limitations."
+  },
+  "Model Monitoring": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Evidently AI Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.evidentlyai.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Model Monitoring, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Model Monitoring."
+  },
+  "MongoDB": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MongoDB University",
+        "type": "Course",
+        "url": "https://learn.mongodb.com/"
+      }
+    ],
+    "practice": "Study the core concepts of MongoDB, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of MongoDB."
+  },
+  "Monitoring": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Prometheus Documentation",
+        "type": "Official Documentation",
+        "url": "https://prometheus.io/docs/introduction/overview/"
+      }
+    ],
+    "practice": "Study the core concepts of Monitoring, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Monitoring."
+  },
+  "MySQL": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MySQL Documentation",
+        "type": "Official Documentation",
+        "url": "https://dev.mysql.com/doc/"
+      }
+    ],
+    "practice": "Study the core concepts of MySQL, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of MySQL."
+  },
+  "Natural Language Processing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Hugging Face NLP Course",
+        "type": "Course",
+        "url": "https://huggingface.co/learn/nlp-course"
+      }
+    ],
+    "practice": "Study the core concepts of Natural Language Processing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Natural Language Processing."
+  },
+  "Nessus": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Tenable Nessus Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.tenable.com/nessus/"
+      }
+    ],
+    "practice": "Study the core concepts of Nessus, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Nessus."
+  },
+  "Network Security": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cisco Skills for All",
+        "type": "Free Training",
+        "url": "https://skillsforall.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Network Security, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Network Security."
+  },
+  "Nmap": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Nmap Network Scanning Book",
+        "type": "Official Online Book",
+        "url": "https://nmap.org/book/"
+      }
+    ],
+    "practice": "Study the core concepts of Nmap, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Nmap."
+  },
+  "NoSQL": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MongoDB University",
+        "type": "Free Learning Resource",
+        "url": "https://learn.mongodb.com/"
+      }
+    ],
+    "practice": "Study the core concepts of NoSQL, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of NoSQL."
+  },
+  "OWASP": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: OWASP",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=OWASP+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of OWASP, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of OWASP."
+  },
+  "Observability": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "OpenTelemetry Documentation",
+        "type": "Official Documentation",
+        "url": "https://opentelemetry.io/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Observability, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Observability."
+  },
+  "OpenCV": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: OpenCV",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=OpenCV+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of OpenCV, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of OpenCV."
+  },
+  "Operating Systems": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Operating Systems: Three Easy Pieces",
+        "type": "Free Online Textbook",
+        "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/"
+      }
+    ],
+    "practice": "Study the core concepts of Operating Systems, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Operating Systems."
+  },
+  "PCB Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: PCB Design",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=PCB+Design+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of PCB Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of PCB Design."
+  },
+  "PHP": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PHP Manual",
+        "type": "Official Documentation",
+        "url": "https://www.php.net/manual/en/"
+      }
+    ],
+    "practice": "Study the core concepts of PHP, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of PHP."
+  },
+  "Performance Testing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of Performance Testing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Performance Testing."
+  },
+  "Performance Tuning": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Performance Tuning",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Performance+Tuning+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Performance Tuning, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Performance Tuning."
+  },
+  "Physics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "OpenStax College Physics",
+        "type": "Free Textbook",
+        "url": "https://openstax.org/details/books/college-physics-2e"
+      }
+    ],
+    "practice": "Study the core concepts of Physics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Physics."
+  },
+  "Playwright": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Playwright",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Playwright+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Playwright, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Playwright."
+  },
+  "PostgreSQL": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PostgreSQL Tutorial",
+        "type": "Documentation",
+        "url": "https://www.postgresql.org/docs/current/tutorial.html"
+      }
+    ],
+    "practice": "Study the core concepts of PostgreSQL, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of PostgreSQL."
+  },
+  "Power Systems": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Power Systems",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Power+Systems+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Power Systems, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Power Systems."
+  },
+  "PowerShell": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - PowerShell",
+        "type": "Official Training",
+        "url": "https://learn.microsoft.com/en-us/powershell/"
+      }
+    ],
+    "practice": "Study the core concepts of PowerShell, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of PowerShell."
+  },
+  "Prioritization": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Prioritization",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Prioritization+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Prioritization, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Prioritization."
+  },
+  "Probability": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Khan Academy - Statistics and Probability",
+        "type": "Free Course",
+        "url": "https://www.khanacademy.org/math/statistics-probability"
+      }
+    ],
+    "practice": "Study the core concepts of Probability, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Probability."
+  },
+  "Problem Solving": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Problem Solving",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Problem+Solving+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Problem Solving, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Problem Solving."
+  },
+  "Process Modeling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Process Modeling",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Process+Modeling+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Process Modeling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Process Modeling."
+  },
+  "Process Safety": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Process Safety",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Process+Safety+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Process Safety, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Process Safety."
+  },
+  "Product Analytics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Amplitude Academy",
+        "type": "Learning Resource",
+        "url": "https://amplitude.com/academy"
+      }
+    ],
+    "practice": "Study the core concepts of Product Analytics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Product Analytics."
+  },
+  "Product Strategy": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Product Strategy",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Product+Strategy+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Product Strategy, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Product Strategy."
+  },
+  "Project Management": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Project Management Institute - Learning",
+        "type": "Learning Resource",
+        "url": "https://www.pmi.org/learning"
+      }
+    ],
+    "practice": "Study the core concepts of Project Management, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Project Management."
+  },
+  "Project Planning": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Project Management",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/project-management"
+      }
+    ],
+    "practice": "Study the core concepts of Project Planning, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Project Planning."
+  },
+  "Prompt Engineering": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Cloud Prompt Design",
+        "type": "Learning Resource",
+        "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction"
+      }
+    ],
+    "practice": "Study the core concepts of Prompt Engineering, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Prompt Engineering."
+  },
+  "Prototyping": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Figma Resource Library",
+        "type": "Learning Resource",
+        "url": "https://www.figma.com/resource-library/"
+      }
+    ],
+    "practice": "Study the core concepts of Prototyping, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Prototyping."
+  },
+  "Qualitative Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Qualitative Analysis",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Qualitative+Analysis+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Qualitative Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Qualitative Analysis."
+  },
+  "Query Optimization": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "PostgreSQL - Performance Tips",
+        "type": "Official Documentation",
+        "url": "https://www.postgresql.org/docs/current/performance-tips.html"
+      }
+    ],
+    "practice": "Study the core concepts of Query Optimization, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Query Optimization."
+  },
+  "RAG": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Pinecone - RAG Guide",
+        "type": "Learning Resource",
+        "url": "https://www.pinecone.io/learn/retrieval-augmented-generation/"
+      }
+    ],
+    "practice": "Study the core concepts of RAG, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of RAG."
+  },
+  "ROS": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ROS 2 Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.ros.org/en/rolling/"
+      }
+    ],
+    "practice": "Study the core concepts of ROS, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of ROS."
+  },
+  "RTOS": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "FreeRTOS Documentation",
+        "type": "Official Documentation",
+        "url": "https://www.freertos.org/Documentation/RTOS_book.html"
+      }
+    ],
+    "practice": "Study the core concepts of RTOS, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of RTOS."
+  },
+  "Red Hat Linux": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Linux Journey",
+        "type": "Course",
+        "url": "https://linuxjourney.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Red Hat Linux, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Red Hat Linux."
+  },
+  "Redis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Redis Documentation",
+        "type": "Official Documentation",
+        "url": "https://redis.io/docs/latest/"
+      }
+    ],
+    "practice": "Study the core concepts of Redis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Redis."
+  },
+  "Redshift": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Amazon Redshift Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.aws.amazon.com/redshift/"
+      }
+    ],
+    "practice": "Study the core concepts of Redshift, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Redshift."
+  },
+  "Requirements Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Product Requirements",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/agile/product-management/requirements"
+      }
+    ],
+    "practice": "Study the core concepts of Requirements Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Requirements Analysis."
+  },
+  "Research Ethics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NIH - Research Integrity and Ethics",
+        "type": "Official Resource",
+        "url": "https://grants.nih.gov/policy-and-compliance/policy-topics/research-misconduct"
+      }
+    ],
+    "practice": "Study the core concepts of Research Ethics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Research Ethics."
+  },
+  "Research Methods": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Research Methods",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Research+Methods+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Research Methods, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Research Methods."
+  },
+  "Risk Management": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NIST Risk Management Framework",
+        "type": "Official Resource",
+        "url": "https://csrc.nist.gov/projects/risk-management/about-rmf"
+      }
+    ],
+    "practice": "Study the core concepts of Risk Management, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Risk Management."
+  },
+  "Risk Modeling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Risk Modeling",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Risk+Modeling+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Risk Modeling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Risk Modeling."
+  },
+  "Roadmapping": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Product Roadmaps",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/agile/product-management/product-roadmaps"
+      }
+    ],
+    "practice": "Study the core concepts of Roadmapping, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Roadmapping."
+  },
+  "Robotics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ROS 2 Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.ros.org/en/rolling/"
+      }
+    ],
+    "practice": "Study the core concepts of Robotics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Robotics."
+  },
+  "Routing and Switching": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cisco Networking Academy",
+        "type": "Free Learning Resource",
+        "url": "https://www.netacad.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Routing and Switching, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Routing and Switching."
+  },
+  "SAP": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: SAP",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=SAP+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of SAP, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SAP."
+  },
+  "SAS": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: SAS",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=SAS+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of SAS, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SAS."
+  },
+  "SDLC": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: SDLC",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=SDLC+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of SDLC, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SDLC."
+  },
+  "SIEM": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Splunk Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.splunk.com/Documentation"
+      }
+    ],
+    "practice": "Study the core concepts of SIEM, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SIEM."
+  },
+  "SPICE": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ngspice Documentation",
+        "type": "Official Documentation",
+        "url": "https://ngspice.sourceforge.io/docs.html"
+      }
+    ],
+    "practice": "Study the core concepts of SPICE, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SPICE."
+  },
+  "SQL Server": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: SQL Server",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=SQL+Server+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of SQL Server, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SQL Server."
+  },
+  "SQLite": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "SQLite Documentation",
+        "type": "Official Documentation",
+        "url": "https://www.sqlite.org/docs.html"
+      }
+    ],
+    "practice": "Study the core concepts of SQLite, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SQLite."
+  },
+  "Safety Standards": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Safety Standards",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Safety+Standards+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Safety Standards, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Safety Standards."
+  },
+  "Scala": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Scala",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Scala+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Scala, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Scala."
+  },
+  "Scheduling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Scheduling",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Scheduling+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Scheduling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Scheduling."
+  },
+  "Scientific Writing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Purdue OWL - Research and Citation",
+        "type": "Learning Resource",
+        "url": "https://owl.purdue.edu/owl/research_and_citation/using_research/index.html"
+      }
+    ],
+    "practice": "Study the core concepts of Scientific Writing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Scientific Writing."
+  },
+  "Scripting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GNU Bash Reference Manual",
+        "type": "Official Documentation",
+        "url": "https://www.gnu.org/software/bash/manual/"
+      }
+    ],
+    "practice": "Study the core concepts of Scripting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Scripting."
+  },
+  "Scrum": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "The Scrum Guide",
+        "type": "Official Guide",
+        "url": "https://scrumguides.org/scrum-guide.html"
+      }
+    ],
+    "practice": "Study the core concepts of Scrum, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Scrum."
+  },
+  "Security": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "NIST Cybersecurity Framework",
+        "type": "Official Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      }
+    ],
+    "practice": "Study the core concepts of Security, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Security."
+  },
+  "Security Architecture": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "AWS Well-Architected - Security Pillar",
+        "type": "Architecture Guide",
+        "url": "https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html"
+      }
+    ],
+    "practice": "Study the core concepts of Security Architecture, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Security Architecture."
+  },
+  "Security Fundamentals": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cisco Skills for All - Cybersecurity",
+        "type": "Free Training",
+        "url": "https://skillsforall.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Security Fundamentals, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Security Fundamentals."
+  },
+  "Security Monitoring": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - Microsoft Sentinel",
+        "type": "Official Training",
+        "url": "https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-365-defender-microsoft-sentinel/"
+      }
+    ],
+    "practice": "Study the core concepts of Security Monitoring, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Security Monitoring."
+  },
+  "Sensors": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Sensors",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Sensors+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Sensors, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Sensors."
+  },
+  "Sensors and Actuators": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Sensors and Actuators",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Sensors+and+Actuators+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Sensors and Actuators, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Sensors and Actuators."
+  },
+  "ServiceNow": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: ServiceNow",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=ServiceNow+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of ServiceNow, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of ServiceNow."
+  },
+  "Signal Processing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "The Scientist and Engineer’s Guide to Digital Signal Processing",
+        "type": "Free Online Textbook",
+        "url": "https://www.dspguide.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Signal Processing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Signal Processing."
+  },
+  "Simulink": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Simulink Onramp",
+        "type": "Free Learning Resource",
+        "url": "https://matlabacademy.mathworks.com/details/simulink-onramp/simulink"
+      }
+    ],
+    "practice": "Study the core concepts of Simulink, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Simulink."
+  },
+  "Smart Contracts": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Ethereum Developer Documentation",
+        "type": "Official Documentation",
+        "url": "https://ethereum.org/en/developers/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of Smart Contracts, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Smart Contracts."
+  },
+  "Snowflake": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Snowflake Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.snowflake.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Snowflake, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Snowflake."
+  },
+  "Software Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Refactoring.Guru - Design Patterns",
+        "type": "Learning Resource",
+        "url": "https://refactoring.guru/design-patterns"
+      }
+    ],
+    "practice": "Study the core concepts of Software Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Software Design."
+  },
+  "Software Engineering": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GitHub Skills",
+        "type": "Free Learning Resource",
+        "url": "https://skills.github.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Software Engineering, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Software Engineering."
+  },
+  "SolidWorks": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "SOLIDWORKS Training",
+        "type": "Learning Resource",
+        "url": "https://my.solidworks.com/training"
+      }
+    ],
+    "practice": "Study the core concepts of SolidWorks, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SolidWorks."
+  },
+  "Solidity": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Solidity Documentation",
+        "type": "Official Documentation",
+        "url": "https://docs.soliditylang.org/en/latest/"
+      }
+    ],
+    "practice": "Study the core concepts of Solidity, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Solidity."
+  },
+  "Spark": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apache Spark Documentation",
+        "type": "Documentation",
+        "url": "https://spark.apache.org/docs/latest/"
+      }
+    ],
+    "practice": "Study the core concepts of Spark, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Spark."
+  },
+  "Splunk": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Splunk",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Splunk+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Splunk, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Splunk."
+  },
+  "Spreadsheets": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Excel Help and Learning",
+        "type": "Official Learning Resource",
+        "url": "https://support.microsoft.com/excel"
+      }
+    ],
+    "practice": "Study the core concepts of Spreadsheets, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Spreadsheets."
+  },
+  "Sprint Planning": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Sprint Planning",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/agile/scrum/sprint-planning"
+      }
+    ],
+    "practice": "Study the core concepts of Sprint Planning, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Sprint Planning."
+  },
+  "Stakeholder Management": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Stakeholder Management",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/project-management/project-planning/stakeholder-management"
+      }
+    ],
+    "practice": "Study the core concepts of Stakeholder Management, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Stakeholder Management."
+  },
+  "Structural Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Structural Analysis",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Structural+Analysis+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Structural Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Structural Analysis."
+  },
+  "Survey Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Survey Design",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Survey+Design+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Survey Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Survey Design."
+  },
+  "Surveying": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Surveying",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Surveying+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Surveying, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Surveying."
+  },
+  "Swift": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Swift Documentation",
+        "type": "Documentation",
+        "url": "https://www.swift.org/documentation/"
+      }
+    ],
+    "practice": "Study the core concepts of Swift, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Swift."
+  },
+  "SwiftUI": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Swift Documentation",
+        "type": "Documentation",
+        "url": "https://www.swift.org/documentation/"
+      }
+    ],
+    "practice": "Study the core concepts of SwiftUI, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SwiftUI."
+  },
+  "System Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Cloud Architecture Center",
+        "type": "Architecture Resource",
+        "url": "https://cloud.google.com/architecture"
+      }
+    ],
+    "practice": "Study the core concepts of System Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of System Design."
+  },
+  "System Modeling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: System Modeling",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=System+Modeling+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of System Modeling, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of System Modeling."
+  },
+  "SystemVerilog": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "SystemVerilog Academy",
+        "type": "Course",
+        "url": "https://www.systemverilogacademy.com/courses"
+      }
+    ],
+    "practice": "Study the core concepts of SystemVerilog, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of SystemVerilog."
+  },
+  "TCP/IP": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Cloudflare Learning - What Is TCP/IP?",
+        "type": "Learning Resource",
+        "url": "https://www.cloudflare.com/learning/network-layer/what-is-tcp-ip/"
+      }
+    ],
+    "practice": "Study the core concepts of TCP/IP, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of TCP/IP."
+  },
+  "Team Communication": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Team Communication",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Team+Communication+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Team Communication, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Team Communication."
+  },
+  "Technical Drawing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Technical Drawing",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Technical+Drawing+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Technical Drawing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Technical Drawing."
+  },
+  "Terraform": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "HashiCorp Terraform Tutorials",
+        "type": "Tutorial",
+        "url": "https://developer.hashicorp.com/terraform/tutorials"
+      }
+    ],
+    "practice": "Study the core concepts of Terraform, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Terraform."
+  },
+  "Test Automation": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Selenium Documentation",
+        "type": "Official Documentation",
+        "url": "https://www.selenium.dev/documentation/"
+      }
+    ],
+    "practice": "Study the core concepts of Test Automation, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Test Automation."
+  },
+  "Test Cases": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Atlassian - Test Management",
+        "type": "Learning Resource",
+        "url": "https://www.atlassian.com/software/jira/features/test-case-management"
+      }
+    ],
+    "practice": "Study the core concepts of Test Cases, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Test Cases."
+  },
+  "Test Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB - Certified Tester Foundation Level",
+        "type": "Syllabus / Learning Resource",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of Test Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Test Design."
+  },
+  "TestNG": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: TestNG",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=TestNG+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of TestNG, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of TestNG."
+  },
+  "Testing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of Testing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Testing."
+  },
+  "Testing and Measurement": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of Testing and Measurement, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Testing and Measurement."
+  },
+  "Thermodynamics": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MIT OpenCourseWare - Thermodynamics and Kinetics",
+        "type": "Free Course Materials",
+        "url": "https://ocw.mit.edu/search/?q=thermodynamics"
+      }
+    ],
+    "practice": "Study the core concepts of Thermodynamics, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Thermodynamics."
+  },
+  "Threat Hunting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "MITRE ATT&CK Knowledge Base",
+        "type": "Official Resource",
+        "url": "https://attack.mitre.org/"
+      }
+    ],
+    "practice": "Study the core concepts of Threat Hunting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Threat Hunting."
+  },
+  "Time Series Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Time Series",
+        "type": "Course",
+        "url": "https://www.kaggle.com/learn/time-series"
+      }
+    ],
+    "practice": "Study the core concepts of Time Series Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Time Series Analysis."
+  },
+  "Timing Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Timing Analysis",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Timing+Analysis+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Timing Analysis, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Timing Analysis."
+  },
+  "Transformers": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Hugging Face NLP Course",
+        "type": "Course",
+        "url": "https://huggingface.co/learn/nlp-course"
+      }
+    ],
+    "practice": "Study the core concepts of Transformers, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Transformers."
+  },
+  "Transport Phenomena": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Video tutorial search: Transport Phenomena",
+        "type": "Search Fallback (YouTube)",
+        "url": "https://www.youtube.com/results?search_query=Transport+Phenomena+tutorial+for+beginners"
+      }
+    ],
+    "practice": "Study the core concepts of Transport Phenomena, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Transport Phenomena."
+  },
+  "Troubleshooting": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Microsoft Learn - Troubleshooting",
+        "type": "Official Learning Resource",
+        "url": "https://learn.microsoft.com/en-us/troubleshoot/"
+      }
+    ],
+    "practice": "Study the core concepts of Troubleshooting, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Troubleshooting."
+  },
+  "TypeScript": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "TypeScript Handbook",
+        "type": "Documentation",
+        "url": "https://www.typescriptlang.org/docs/"
+      }
+    ],
+    "practice": "Study the core concepts of TypeScript, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of TypeScript."
+  },
+  "Typography": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Fonts Knowledge",
+        "type": "Learning Resource",
+        "url": "https://fonts.google.com/knowledge"
+      }
+    ],
+    "practice": "Study the core concepts of Typography, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Typography."
+  },
+  "UIKit": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Apple Developer - UIKit",
+        "type": "Official Documentation",
+        "url": "https://developer.apple.com/documentation/uikit"
+      }
+    ],
+    "practice": "Study the core concepts of UIKit, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of UIKit."
+  },
+  "UNIX": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GNU Manuals Online",
+        "type": "Official Documentation",
+        "url": "https://www.gnu.org/manual/manual.html"
+      }
+    ],
+    "practice": "Study the core concepts of UNIX, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of UNIX."
+  },
+  "UX Design": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Google Design",
+        "type": "Learning Resource",
+        "url": "https://design.google/library/"
+      }
+    ],
+    "practice": "Study the core concepts of UX Design, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of UX Design."
+  },
+  "Unity": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Unity Learn",
+        "type": "Course",
+        "url": "https://learn.unity.com/"
+      }
+    ],
+    "practice": "Study the core concepts of Unity, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Unity."
+  },
+  "Unreal Engine": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Unreal Engine Learning",
+        "type": "Course",
+        "url": "https://dev.epicgames.com/community/learning"
+      }
+    ],
+    "practice": "Study the core concepts of Unreal Engine, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Unreal Engine."
+  },
+  "Usability Testing": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "ISTQB Foundation Level",
+        "type": "Course",
+        "url": "https://www.istqb.org/certifications/certified-tester-foundation-level"
+      }
+    ],
+    "practice": "Study the core concepts of Usability Testing, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Usability Testing."
+  },
+  "User Research": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "GOV.UK Service Manual - User Research",
+        "type": "Official Guide",
+        "url": "https://www.gov.uk/service-manual/user-research"
+      }
+    ],
+    "practice": "Study the core concepts of User Research, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of User Research."
+  },
+  "VHDL": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Nandland - VHDL Tutorials",
+        "type": "Tutorial",
+        "url": "https://nandland.com/learn-vhdl/"
+      }
+    ],
+    "practice": "Study the core concepts of VHDL, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of VHDL."
+  },
+  "Vector Databases": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Pinecone Learning Center",
+        "type": "Learning Resource",
+        "url": "https://www.pinecone.io/learn/"
+      }
+    ],
+    "practice": "Study the core concepts of Vector Databases, then complete small exercises and apply them to a practical example.",
+    "project": "Build a small project that demonstrates your understanding of Vector Databases."
+  },
+  "Exploratory Data Analysis": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Pandas",
+        "type": "Free Course",
+        "url": "https://www.kaggle.com/learn/pandas"
+      },
+      {
+        "name": "Kaggle Learn - Data Visualization",
+        "type": "Free Course",
+        "url": "https://www.kaggle.com/learn/data-visualization"
+      }
+    ],
+    "practice": "For one tabular dataset, inspect shape, data types, missing values, distributions, outliers, and relationships between variables.",
+    "project": "Create an EDA notebook with a data-quality summary, at least five useful plots, and three evidence-backed findings."
+  },
+  "Feature Engineering": {
+    "level": "Intermediate",
+    "resources": [
+      {
+        "name": "Kaggle Learn - Feature Engineering",
+        "type": "Free Course",
+        "url": "https://www.kaggle.com/learn/feature-engineering"
+      }
+    ],
+    "practice": "Create derived numeric, categorical, date, and interaction features while avoiding target leakage.",
+    "project": "Train a baseline model, engineer a small set of features, and compare validation performance using the same split."
+  },
+  "Data Storytelling": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "Tableau - Data Literacy for All",
+        "type": "Free Learning Program",
+        "url": "https://www.tableau.com/learn/data-literacy"
+      }
+    ],
+    "practice": "Turn an analysis into one chart, one sentence stating the main finding, and one action supported by the evidence.",
+    "project": "Create a one-page data story for a non-technical audience with a clear question, two or three visuals, the key insight, and a recommendation."
+  },
+  "Critical Thinking": {
+    "level": "Beginner",
+    "resources": [
+      {
+        "name": "University of Sussex - Critical Thinking",
+        "type": "University Learning Resource",
+        "url": "https://www.sussex.ac.uk/skills-hub/critical-thinking#main"
+      }
+    ],
+    "practice": "For each conclusion in a small analysis, write the supporting evidence, assumptions, a plausible alternative explanation, and what extra information would change your mind.",
+    "project": "Write a short evidence review of a dataset-based claim, separating observed results from assumptions and unresolved questions."
+  }
+}
