@@ -12,3 +12,7 @@ body { @apply bg-paper text-ink font-sans antialiased; }
   .field { @apply w-full rounded-lg border border-line bg-white px-3.5 py-2.5 text-sm outline-none transition focus:border-brand focus:ring-2 focus:ring-brand-soft; }
   .panel { @apply rounded-xl border border-line bg-white p-5; }
 }
+@layer utilities {
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+}
