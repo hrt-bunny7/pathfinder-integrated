@@ -24,6 +24,9 @@ export default async function Jobs({ searchParams }: { searchParams: { q?: strin
     );
   }
 
+    const { data: visitedRows } = await supabase.from('saved_jobs').select('job_external_id');
+  const visitedIds = new Set((visitedRows ?? []).map((r) => r.job_external_id as string));
+  
   const skills = userSkillNames(profile);
   const q = searchParams.q?.trim();
   const { jobs, live } = await fetchJobs({
