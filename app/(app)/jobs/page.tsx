@@ -69,7 +69,7 @@ export default async function Jobs({ searchParams }: { searchParams: { q?: strin
             <li key={job.id} className="panel flex flex-col gap-4 sm:flex-row sm:items-center">
               <MatchRing value={gap.score} size={72} />
               <div className="min-w-0 flex-1">
-                <h2 className="font-display text-xl font-bold leading-tight">{job.title}</h2>
+                <h2 className="font-display text-xl font-bold leading-tight">{job.title}{visitedIds.has(job.id) && <span className="ml-2 align-middle"><Chip tone="brand">Visited</Chip></span>}</h2>
                 <p className="text-sm text-ink/65">{job.company}{job.location && `, ${job.location}`}{job.salary && `, ${job.salary}`}</p>
                 <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-ink/80">{job.description}</p>
                 {need > 0 && (
