@@ -1,4 +1,5 @@
 import type { Job } from './types';
+import { fetchJoobleJobs } from './jooble'; 
 
 const SAMPLE: Job[] = [
   { id: 'sample-1', title: 'Full Stack Developer', company: 'Acme Tech', location: 'Bengaluru', url: '#', salary: null,
@@ -15,7 +16,7 @@ const SAMPLE: Job[] = [
 
 export type JobQuery = { what?: string; whatOr?: string; where?: string; page?: number };
 
-export async function fetchJobs(q: JobQuery): Promise<{ jobs: Job[]; live: boolean }> {
+async function fetchAdzuna(q: JobQuery): Promise<{ jobs: Job[]; live: boolean }> {
   const id = process.env.ADZUNA_APP_ID;
   const key = process.env.ADZUNA_APP_KEY;
   if (!id || !key) return { jobs: SAMPLE, live: false };
@@ -43,4 +44,19 @@ export async function fetchJobs(q: JobQuery): Promise<{ jobs: Job[]; live: boole
   } catch {
     return { jobs: SAMPLE, live: false };
   }
+}
+
+/** Adzuna + Jooble together, duplicates removed. Falls back to sample jobs if neither gives results. */
+export async function fetchJobs(q: JobQuery): Promise<{ jobs: Job[]; live: boolean }> {
+  const [adz, joo] = await Promise.all([fetchAdzuna(q), fetchJoobleJobs(q)]);
+  const all = [...(adz.live ? adz.jobs : []), ...joo];
+  if (!all.length) return { jobs: SAMPLE, live: false };
+  const seen = new Set<string>();
+  const jobs = all.filter((j) => {
+    const k = `${j.title}|${j.company}`.toLowerCase().replace(/\s+/g, ' ').trim();
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
+  return { jobs, live: true };
 }
